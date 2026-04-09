@@ -13,6 +13,6 @@ It uses the MagicTouch, a deep learning model that can segment objects at your r
 
 ## Running the demo
 
-The live demo and code are available in Codepen.
+Web demos are hosted in a the [MediaPipe Sample Web](https://github.com/google-ai-edge/mediapipe-samples-web/) repository.
 
-[View the example on Codepen](https://codepen.io/mediapipe-preview/pen/ZEqzpRg)
+[View the demo](https://google-ai-edge.github.io/mediapipe-samples-web/#/vision/interactive_segmenter)

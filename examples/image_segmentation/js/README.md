@@ -13,6 +13,6 @@ It uses the [DeepLabV3](https://arxiv.org/abs/1706.05587), an semantic image seg
 
 ## Running the demo
 
-The live demo and code are available in Codepen.
+Web demos are hosted in a the [MediaPipe Sample Web](https://github.com/google-ai-edge/mediapipe-samples-web/) repository.
 
-[View the example on Codepen](https://codepen.io/mediapipe-preview/pen/xxJNjbN)
+[View the demo](https://google-ai-edge.github.io/mediapipe-samples-web/#/vision/image_segmenter)

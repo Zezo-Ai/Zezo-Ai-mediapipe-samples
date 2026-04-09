@@ -11,6 +11,6 @@ This web sample detects hand landmarks in images and video frames and classifies
 
 ## Running the demo
 
-The live demo and code are available in Codepen.
+Web demos are hosted in a the [MediaPipe Sample Web](https://github.com/google-ai-edge/mediapipe-samples-web/) repository.
 
-[View the example on Codepen](https://codepen.io/mediapipe-preview/pen/zYamdVd)
+[View the demo](https://google-ai-edge.github.io/mediapipe-samples-web/#/vision/gesture_recognizer)
