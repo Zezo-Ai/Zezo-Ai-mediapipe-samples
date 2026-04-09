@@ -11,6 +11,6 @@ This web sample runs text embedding on two text inputs, and then determines how 
 
 ## Running the demo
 
-The live demo and code are available in Codepen.
+Web demos are hosted in a the [MediaPipe Sample Web](https://github.com/google-ai-edge/mediapipe-samples-web/) repository.
 
-[View the example on Codepen](https://codepen.io/mediapipe-preview/pen/XWBVZmE)
+[View the demo](https://google-ai-edge.github.io/mediapipe-samples-web/#/text/text_embedder)

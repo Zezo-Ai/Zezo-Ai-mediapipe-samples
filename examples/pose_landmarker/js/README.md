@@ -11,6 +11,6 @@ This web sample detects pose landmarks in images and video frames. Landmarks are
 
 ## Running the demo
 
-The live demo and code are available in Codepen.
+Web demos are hosted in a the [MediaPipe Sample Web](https://github.com/google-ai-edge/mediapipe-samples-web/) repository.
 
-[View the example on Codepen](https://codepen.io/mediapipe-preview/pen/abRLMxN)
+[View the demo](https://google-ai-edge.github.io/mediapipe-samples-web/#/vision/pose_landmarker)

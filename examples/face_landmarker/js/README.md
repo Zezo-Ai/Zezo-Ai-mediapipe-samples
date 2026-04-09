@@ -12,6 +12,6 @@ This web sample detects keypoints on faces in images and video frames. Faces are
 
 ## Running the demo
 
-The live demo and code are available in Codepen.
+Web demos are hosted in a the [MediaPipe Sample Web](https://github.com/google-ai-edge/mediapipe-samples-web/) repository.
 
-[View the example on Codepen](https://codepen.io/mediapipe-preview/pen/OJBVQJm)
+[View the demo](https://google-ai-edge.github.io/mediapipe-samples-web/#/vision/face_landmarker)
